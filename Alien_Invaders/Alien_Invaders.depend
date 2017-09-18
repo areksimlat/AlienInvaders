@@ -1,0 +1,70 @@
+# depslib dependency file v1.0
+1389967492 source:d:\studia\semestr v\grafika komputerowa\projekt\alien_invaders\main.cpp
+	"obj_loader.h"
+	"utility.h"
+	"render.h"
+	"models.h"
+
+1389378803 d:\studia\semestr v\grafika komputerowa\projekt\alien_invaders\obj_loader.h
+	<windows.h>
+	<GL/glut.h>
+	<vector>
+	<stdio.h>
+	<string.h>
+	<IL/il.h>
+	<IL/ilu.h>
+	<IL/ilut.h>
+
+1389360896 d:\studia\semestr v\grafika komputerowa\projekt\alien_invaders\utility.h
+	<windows.h>
+	<GL/glut.h>
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<vector>
+	"models.h"
+
+1387746425 d:\studia\semestr v\grafika komputerowa\projekt\alien_invaders\render.h
+	"models.h"
+
+1389965460 d:\studia\semestr v\grafika komputerowa\projekt\alien_invaders\models.h
+	"obj_loader.h"
+	<math.h>
+	<time.h>
+
+1389967461 source:d:\studia\semestr v\grafika komputerowa\projekt\alien_invaders\models.cpp
+	"models.h"
+
+1389967239 source:d:\studia\semestr v\grafika komputerowa\projekt\alien_invaders\obj_loader.cpp
+	"obj_loader.h"
+
+1389967069 source:d:\studia\semestr v\grafika komputerowa\projekt\alien_invaders\render.cpp
+	"render.h"
+
+1389966990 source:d:\studia\semestr v\grafika komputerowa\projekt\alien_invaders\utility.cpp
+	"utility.h"
+
+1387785252 source:d:\studia\semestr v\grafika komputerowa\projekt\alien_invaders\freetype.cpp
+	"freetype.h"
+
+1387785314 d:\studia\semestr v\grafika komputerowa\projekt\alien_invaders\freetype.h
+	<ft2build.h>
+	<freetype/freetype.h>
+
+1387807705 d:\studia\semestr v\grafika komputerowa\projekt\alien_invaders\cp1250.h
+	<windows.h>
+	<GL/glut.h>
+
+1387805747 source:d:\studia\semestr v\grafika komputerowa\projekt\alien_invaders\fonts.cpp
+	"fonts.h"
+
+1387805838 d:\studia\semestr v\grafika komputerowa\projekt\alien_invaders\fonts.h
+	<windows.h>
+	<GL/glut.h>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1387809268 source:d:\studia\semestr v\grafika komputerowa\projekt\alien_invaders\cp1250.cpp
+	"cp1250.h"
+

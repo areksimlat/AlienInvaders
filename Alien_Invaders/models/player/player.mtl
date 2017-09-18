@@ -1,0 +1,71 @@
+# Blender MTL File: 'None'
+# Material Count: 7
+
+newmtl upper_exhaust
+Ns 3.921569
+Ka 0.000000 0.000000 0.000000
+Kd 0.384000 0.384000 0.384000
+Ks 0.900000 0.900000 0.900000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd models/player/upperexhaust-paint-06.png
+
+newmtl 10_-_Default
+Ns 3.921569
+Ka 0.000000 0.000000 0.000000
+Kd 0.384000 0.384000 0.384000
+Ks 0.900000 0.900000 0.900000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd models/player/bottomexhaust-paint-05.png
+
+newmtl 13_-_Default
+Ns 3.921569
+Ka 0.000000 0.000000 0.000000
+Kd 0.384000 0.384000 0.384000
+Ks 0.900000 0.900000 0.900000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd models/player/gunport-paint-02.png
+
+newmtl bottom_fin
+Ns 3.921569
+Ka 0.000000 0.000000 0.000000
+Kd 0.384000 0.384000 0.384000
+Ks 0.900000 0.900000 0.900000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd models/player/bottomwing-paint-01.png
+
+newmtl dagger_hull
+Ns 3.921569
+Ka 0.000000 0.000000 0.000000
+Kd 0.384000 0.384000 0.384000
+Ks 0.900000 0.900000 0.900000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd models/player/dagger-hull-paint24.png
+
+newmtl dagger_intake
+Ns 3.921569
+Ka 0.000000 0.000000 0.000000
+Kd 0.384000 0.384000 0.384000
+Ks 0.900000 0.900000 0.900000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd models/player/intake-paint-03.png
+
+newmtl model_clay
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.576000 0.576000 0.576000
+Ks 0.900000 0.900000 0.900000
+Ni 1.000000
+d 1.000000
+illum 2
